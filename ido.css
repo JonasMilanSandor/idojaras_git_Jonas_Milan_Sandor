@@ -3,6 +3,7 @@
 
 body
 {
+	background-attachment: fixed;
 	background-size:100% auto;
 	background-image: url(background.jpg);
 }
@@ -26,6 +27,8 @@ p
 table
 {
 	border:outset;
+	margin: auto;
+	padding: 0%;
 }
 
 hr
