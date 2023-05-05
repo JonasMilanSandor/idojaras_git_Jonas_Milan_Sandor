@@ -67,6 +67,7 @@ h1, h2{
 	text-align: center;
 	color: #808183;
 	font-weight: bold;
+	text-decoration: none;
 }
 
 li{
@@ -77,4 +78,9 @@ li{
 dt{
 	color: #243f84;
 	text-decoration: underline;
+}
+
+#top{
+	width: 5vw;
+	float: right;
 }
