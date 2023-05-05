@@ -30,7 +30,7 @@ table
 	margin: auto;
 	padding: 0%;
 	width: 80%;
-	border: 3px black solid;
+	border: 3px;
 	border-collapse: collapse;
 }
 
@@ -60,4 +60,12 @@ input
 h1, h2{
 	color: #243f84;
 	text-transform: uppercase;
+}
+
+.szurke{
+	font-size: small;
+	text-align: center;
+	color: #808183;
+	font-weight: bold;
+	
 }
