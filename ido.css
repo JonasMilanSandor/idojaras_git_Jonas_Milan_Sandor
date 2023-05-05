@@ -29,6 +29,8 @@ table
 	border:outset;
 	margin: auto;
 	padding: 0%;
+	width: 80%;
+	border: 3px black solid;
 }
 
 hr
