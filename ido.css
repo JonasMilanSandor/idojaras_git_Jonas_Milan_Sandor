@@ -32,6 +32,7 @@ table
 	width: 80%;
 	border: 3px;
 	border-collapse: collapse;
+	box-shadow: 5px 5px 20px 1px black
 }
 
 hr
@@ -83,4 +84,8 @@ dt{
 #top{
 	width: 5vw;
 	float: right;
+}
+
+#forras{
+	color: #808183;
 }
